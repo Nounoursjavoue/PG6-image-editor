@@ -1,11 +1,168 @@
-cacacacacacacacacacacacacacaca
-
-a
-a
-a
-a
-a
-aa
-
-aaa
-a
+[2024-12-13 11:28:34] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 11:57:47] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 11:57:47] Flou appliqué à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 12:12:50] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 12:12:50] Flou appliqué à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 12:12:50] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 12:38:36] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 12:40:48] Erreur lors de l'ajout de texte à imageAmodifie/blanc.jpg : Impossible de charger l'image depuis imageAmodifie/blanc.jpg
+[2024-12-13 12:41:22] Erreur lors de la conversion en noir et blanc de imageAmodifie/blanc.jpg : cannot identify image file '/Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/imageAmodifie/blanc.jpg'
+[2024-12-13 12:41:34] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 12:49:26] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:03:09] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:03:09] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:03:09] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:17:56] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:17:56] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:17:56] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:17:56] Image redimensionnée avec un facteur de scaling 1.5 : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 14:18:09] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:18:09] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:18:09] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:18:52] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:18:52] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:18:52] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:18:52] Erreur lors du redimensionnement de imageAmodifie/jesuisou.jpg car facteur negatif
+[2024-12-13 14:20:30] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:20:30] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:20:30] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:20:30] Erreur lors du redimensionnement de imageAmodifie/jesuisou.jpg car facteur negatif
+[2024-12-13 14:35:00] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:35:00] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:35:00] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:35:00] Erreur lors du redimensionnement de imageAmodifie/jesuisou.jpg car facteur negatif
+[2024-12-13 14:35:00] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 14:35:00] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 14:35:00] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:42:39] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:42:39] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:42:39] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:42:39] Erreur lors du redimensionnement de imageAmodifie/jesuisou.jpg car facteur negatif
+[2024-12-13 14:42:39] Erreur : La liste des images à traiter est vide.
+[2024-12-13 14:51:04] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:51:04] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:51:04] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:51:04] Erreur lors du redimensionnement de imageAmodifie/jesuisou.jpg car facteur negatif
+[2024-12-13 14:51:04] Erreur : La liste des images à traiter est vide.
+[2024-12-13 14:51:21] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:51:21] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:51:21] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:51:21] Erreur lors du redimensionnement de imageAmodifie/jesuisou.jpg car facteur negatif
+[2024-12-13 14:51:21] Flou appliqué à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 14:51:21] Flou appliqué à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 14:51:21] Flou appliqué à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:53:28] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:53:28] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:53:28] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:53:28] Erreur lors du redimensionnement de imageAmodifie/jesuisou.jpg car facteur negatif
+[2024-12-13 14:53:28] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 14:53:28] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 14:53:28] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:53:52] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:53:52] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:53:52] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:53:52] Erreur lors du redimensionnement de imageAmodifie/jesuisou.jpg car facteur negatif
+[2024-12-13 14:54:00] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:54:00] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:54:00] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:54:00] Erreur lors du redimensionnement de imageAmodifie/jesuisou.jpg car facteur negatif
+[2024-12-13 14:54:00] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 14:54:00] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 14:54:00] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:54:21] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:54:21] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:54:21] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:54:21] Erreur lors du redimensionnement de imageAmodifie/jesuisou.jpg car facteur negatif
+[2024-12-13 14:54:21] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 14:54:21] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 14:54:21] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:54:34] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:54:34] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:54:34] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:54:34] Erreur lors du redimensionnement de imageAmodifie/jesuisou.jpg car facteur negatif
+[2024-12-13 14:54:34] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 14:54:34] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 14:54:34] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:55:18] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:55:18] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:55:18] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:55:18] Erreur lors du redimensionnement de imageAmodifie/jesuisou.jpg car facteur negatif
+[2024-12-13 14:55:18] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 14:55:18] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 14:55:18] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 14:55:18] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:04:41] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:04:41] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:04:41] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:04:41] Erreur lors du redimensionnement de imageAmodifie/jesuisou.jpg car facteur negatif
+[2024-12-13 15:04:41] Erreur lors de l'ajout de texte à imageAmodifie/mozie.jpg : Impossible de charger l'image depuis imageAmodifie/mozie.jpg
+[2024-12-13 15:04:41] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 15:04:41] Texte ajouté à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:04:41] Erreur lors de l'ajout de texte à imageAmodifie/mozie.jpg : Impossible de charger l'image depuis imageAmodifie/mozie.jpg
+[2024-12-13 15:07:20] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:07:20] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:13:08] Texte ajouté et centré à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:13:51] Texte ajouté et centré à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:14:03] Texte ajouté et centré à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:14:19] Texte ajouté et centré à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:14:28] Texte ajouté et centré à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:14:42] Texte ajouté et centré à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:21:26] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:21:42] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:22:50] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:22:50] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 15:22:50] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:23:15] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:23:15] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 15:23:15] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:23:15] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:23:15] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 15:23:15] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:24:34] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:25:04] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:25:04] Flou appliqué à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:25:22] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:25:22] Flou appliqué à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:25:22] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:26:08] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:26:08] Flou appliqué à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:26:08] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:26:08] Erreur lors de la rotation de 40 : expected str, bytes or os.PathLike object, not int
+[2024-12-13 15:26:19] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:26:19] Flou appliqué à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:26:19] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:26:19] Erreur lors de la rotation de 40 : expected str, bytes or os.PathLike object, not int
+[2024-12-13 15:26:44] Erreur lors de la rotation de 40 : expected str, bytes or os.PathLike object, not int
+[2024-12-13 15:27:39] Image redimensionnée avec un facteur de scaling 1.5 : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:29:17] Image redimensionnée avec un facteur de scaling 1.5 : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:29:17] Erreur : Le texte 'ceci est un test' est trop large pour l'image (largeur de texte : 255, largeur de l'image : 225). Essayez de réduire la taille du texte.
+[2024-12-13 15:29:17] Erreur lors de l'ajout de texte à imageAmodifie/mozzie.jpg : Le texte 'ceci est un test' est trop large pour l'image. Essayez de réduire la taille du texte.
+[2024-12-13 15:29:27] Image redimensionnée avec un facteur de scaling 1.5 : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:29:27] Texte ajouté et centré à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:29:40] Image redimensionnée avec un facteur de scaling 1.5 : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:29:40] Texte ajouté et centré à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:30:22] Image redimensionnée avec un facteur de scaling 1.5 : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:30:22] Texte ajouté et centré à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:30:22] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:30:22] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 15:30:22] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:31:00] Image redimensionnée avec un facteur de scaling 1.5 : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:31:00] Texte ajouté et centré à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:31:00] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:31:00] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 15:31:00] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 15:31:00] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 15:31:00] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 15:31:00] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 16:15:38] Image redimensionnée avec un facteur de scaling 1.5 : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 16:15:38] Texte ajouté et centré à l'image : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 16:15:38] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 16:15:38] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 16:15:38] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-13 16:15:38] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-13 16:15:38] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/jesuisou.jpg
+[2024-12-13 16:15:38] Dilatation appliquée : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg
+[2024-12-15 22:20:44] Erreur lors de la rotation de 40 : expected str, bytes or os.PathLike object, not int
+[2024-12-15 22:32:34] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-15 22:33:25] Image convertie en noir et blanc : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/mozzie.jpg
+[2024-12-15 22:33:25] Image pivotée de 35° : /Users/umitbalkaya/Desktop/Emss/Ecole/coding_factory/Projet/PG6-image-editor/output/blanc.jpg

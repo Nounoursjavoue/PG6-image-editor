@@ -1,0 +1,4 @@
+Python 3.10 (minimum)
+Pillow
+opencv-python
+numpy
